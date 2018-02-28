@@ -13,9 +13,6 @@ Website:
 
 Changelog:
 
-    0.9.8
-        - bug  : Fix autocompletion from .sublime-package
-
     0.9.7
         - feat : Add command 'select_max_instance' to choose a 3ds Max
                  to talk to when multiple are available
